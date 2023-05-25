@@ -1,0 +1,44 @@
+ [
+      {
+        "id": 1,
+        "name": "Jet Tila",
+        "bannerImage":"https://images.squarespace-cdn.com/content/v1/5e388ead4b0f9a3409a925d3/1581539652751-0RZXHCSSJ4ISH0X5D619/unnamed-1-copy.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMxfSblZu5o9uO0tnBEWLOAFHTDhbSbGQhicf28FzR5Vbp5JXN",
+        "years_of_experience": 10,
+        "number_of_recipes":3,
+        "likes": 500,
+        "bio":"Jet Tilakamonkul, known professionally as Jet Tila, is an American celebrity chef, author, restaurateur, and restaurant developer"
+      },
+      {
+        "id": 2,
+        "name": "Pim Techamuanvivit",
+        "bannerImage":"https://media.timeout.com/images/105300557/image.jpg",
+        "image": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/open_graph_image/public/2021-03/Pim%20Techamuanvivit.jpg?itok=7r9e5Ui8",
+        "years_of_experience": 5,
+        "number_of_recipes":3,
+        "likes": 300,
+        "bio":"Pim Techamuanvivit is a Thai chef and restaurateur based in San Francisco. She is the owner of Nari, Kamin, and Michelin-starred Kin Khao restaurants in San Francisco"
+      },
+      {
+        "id": 3,
+        "name": "Paul Qui",
+        "bannerImage":"https://cdn.vox-cdn.com/thumbor/v2n8c9xoDYJetfI3XNoy_n5KygI=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/2356882/IMG_9049.0.jpg",
+        "image": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcRyW-OXVnIZ_GlH20UIfy0WTckNl1eYI3A14KegklE2vx1zNpJ56fRVEhf3E7xU8NRf",
+        "years_of_experience": 8,
+        "number_of_recipes":3,
+        "likes": 400,
+        "bio":"Paul Qui is a Texas-based Top Chef winner and James Beard award recipient. He operates restaurants East Side King, Thai Kun and Pao. In 2011, he won the ninth season of reality television cooking competition Top Chef"
+      },
+      {
+        "id": 4,
+        "name": "Pailin Chongchitnant",
+        "bannerImage":"https://cdn.shopify.com/s/files/1/0506/0633/collections/Pailin-banner_1200x1200.jpg?v=1532116693",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoAAn9nXQGbKpUSK0qDaNTg2mkq3hE8cqpO1JyVLYy1R4gp0z9",
+        "years_of_experience": 12,
+        "number_of_recipes":3,
+        "likes": 700,
+        "bio":"PAILIN CHONGCHITNANT was born and raised in Thailand. After attending the University of British Columbia, she made her way to Le Cordon Bleu culinary school in San Francisco, and began cooking for both Western and Thai restaurants."
+      }
+]
+
+  
